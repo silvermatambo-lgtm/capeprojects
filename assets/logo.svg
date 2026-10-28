@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-label="Cape Projects construction and maintenance logo">
+<g transform="translate(33 37) scale(1.14)">
+<g fill="none" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M16 75 L85 18 L154 75" stroke="#113C63" stroke-width="14" />
+ <path d="M34 79 V145 H136 V79" stroke="#113C63" stroke-width="12" />
+ <path d="M56 142 V112 H79 V142" stroke="#113C63" stroke-width="9"/>
+ <path d="M97 139 L120 116" stroke="#F39A2F" stroke-width="13"/>
+ <path d="M120 116 L120 101 L132 91" stroke="#F39A2F" stroke-width="10"/>
+ <path d="M120 101 L108 89" stroke="#F39A2F" stroke-width="10"/>
+ <path d="M108 89 L118 79" stroke="#F39A2F" stroke-width="10"/>
+</g>
+</g>
+<text x="245" y="141" font-family="Inter,Arial,sans-serif" font-size="81" font-weight="800" fill="#113C63" letter-spacing="-1.5">CAPE</text>
+<text x="498" y="141" font-family="Inter,Arial,sans-serif" font-size="81" font-weight="800" fill="#F39A2F" letter-spacing="-1.5">PROJECTS</text>
+<rect x="248" y="170" width="61" height="5" rx="2.5" fill="#F39A2F"/>
+<text x="328" y="178" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="600" fill="#34495E" letter-spacing="5.2">CONSTRUCTION &amp; MAINTENANCE</text>
+</svg>

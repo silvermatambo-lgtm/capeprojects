@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Cape Projects icon"><g transform="translate(26 19) scale(2.7)">
+<g fill="none" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M16 75 L85 18 L154 75" stroke="#113C63" stroke-width="14" />
+ <path d="M34 79 V145 H136 V79" stroke="#113C63" stroke-width="12" />
+ <path d="M56 142 V112 H79 V142" stroke="#113C63" stroke-width="9"/>
+ <path d="M97 139 L120 116" stroke="#F39A2F" stroke-width="13"/>
+ <path d="M120 116 L120 101 L132 91" stroke="#F39A2F" stroke-width="10"/>
+ <path d="M120 101 L108 89" stroke="#F39A2F" stroke-width="10"/>
+ <path d="M108 89 L118 79" stroke="#F39A2F" stroke-width="10"/>
+</g>
+</g></svg>
